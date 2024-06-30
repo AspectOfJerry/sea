@@ -23,7 +23,7 @@ int main() {
     unsigned long int m = 4294967295; // 4 bytes (0 to 4294967295) %lu
 
     long long n = 9223372036854775807; // 8 bytes (-9223372036854775808 to 9223372036854775807) %lld
-    unsigned long long int o = 18446744073709551615U; // 8 bytes (0 to 18446744073709551615) %llu
+    unsigned long long o = 18446744073709551615U; // 8 bytes (0 to 18446744073709551615) %llu
     long long int p = 9223372036854775807; // 8 bytes (-9223372036854775808 to 9223372036854775807) %llu
     unsigned long long int q = 18446744073709551615U; // 8 bytes (0 to 18446744073709551615) %llu
 
